@@ -27,7 +27,3 @@ This simulation models wildfire spread in a forested area using real NASA tree d
 1. Clone this repo.
 2. Open `fire_simulation.ipynb` in Jupyter.
 3. Adjust parameters and run simulations.
-
-## Author
-Miraslava Tsylina  
-[LinkedIn] | [Email]  
